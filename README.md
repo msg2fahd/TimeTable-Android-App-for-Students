@@ -1,0 +1,1 @@
+• Develop a android application using android studio by using java language to improve the performance. • User authentication done by OTP , for this feature we used google firebase authentication.after Login u will be redirect to a weekdays page , select each week-day to know the timetable of the corresponding day 
