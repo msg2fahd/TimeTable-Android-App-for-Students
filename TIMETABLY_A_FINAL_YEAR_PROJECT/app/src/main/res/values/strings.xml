@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">TIMETABLY</string>
+    <string name="gce_keonjhar">GCE KEONJHAR</string>
+    <string name="ineering">The Government College of Engineering, Keonjhar is a state run higher education institute located in Keonjhar, Odisha, India, focusing on education and research in the field of Mining Engineering.</string>
+    <string name="slide_images">slide_images</string>
+    <string name="the_government_string_the_government_college_of_engineering_keonjhar_is_a_state_run_higher_education_institute_located_in_keonjhar_odisha_india_focusing_on_education_and_research_in_the_field_of_mining_engineering">The Government @string/the_government_college_of_engineering_keonjhar_is_a_state_run_higher_education_institute_located_in_keonjhar_odisha_india_focusing_on_education_and_research_in_the_field_of_mining_engineering</string>
+    <string name="the_government_college_of_engineering_keonjhar_is_a_state_run_higher_education_institute_located_in_keonjhar_odisha_india_focusing_on_education_and_research_in_the_field_of_Mining_engineering">The Government College of Engineering,Keonjhar is a state run higher education institute located in Keonjhar,Odisha,India,Focusing on education and research in the field of Mining Engineering.</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="sign_up">Sign-Up</string>
+
+    <string name="sign_up1">Sign up</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="password">Password</string>
+    <string name="click_me">Click Me</string>
+    <string name="timetably_login">TIMETABLY LOGIN</string>
+    <string name="welcome_to_timetably">Welcome to TimeTablY</string>
+    <string name="skip">SKIP</string>
+    <string name="faculty_login">FACULTY LOGIN</string>
+    <string name="title_activity_newsfeed">TIMETABLY</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="period_string_sign_up1">PERIOD @string/sign_up1</string>
+    <array name="genres">
+        <item>1st sem</item>
+        <item>2nd sem</item>
+        <item>3rd sem</item>
+        <item>4th sem</item>
+        <item>5th sem</item>
+        <item>6th sem</item>
+        <item>7th sem</item>
+        <item>8th sem</item>
+
+
+    </array>
+    <array name="year">
+        <item>cse</item>
+        <item>civil</item>
+        <item>mech</item>
+        <item>elec</item>
+        <item>mining</item>
+        <item>mett.</item>
+        <item>mineral</item>
+
+    </array>
+</resources>

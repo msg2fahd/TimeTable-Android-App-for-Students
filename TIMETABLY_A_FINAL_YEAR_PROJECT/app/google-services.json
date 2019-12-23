@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "882625598093",
+    "firebase_url": "https://gce-timetable.firebaseio.com",
+    "project_id": "gce-timetable",
+    "storage_bucket": "gce-timetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882625598093:android:6f17e6bde85ff45d",
+        "android_client_info": {
+          "package_name": "com.example.fahad.timetably"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882625598093-9qmem7vn5f0e872qmqltb1ltpklrnaln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahad.timetably",
+            "certificate_hash": "6e8297216c1b35683c457ba722368c4d33d3103e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxN8uMyAV03bLEt9ousHysf9AYa2aWms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882625598093-801g5itmlrgdst10kfag12khpeh14rin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
